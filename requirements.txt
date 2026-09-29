@@ -1,0 +1,6 @@
+# Pinned to versions verified against current Hindsight Cloud documentation
+# and PyPI on the build date. Upgrade deliberately, not automatically.
+hindsight-client==0.10.1
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+python-dotenv>=1.0,<2.0
